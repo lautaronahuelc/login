@@ -1,9 +1,15 @@
 # Login
 
+*¡Hey, Recruiter!* 👀 
+
+Este es un proyecto creado con HTML y CSS.
+
 Se creó la interfaz de lo que podría ser una app de música para móvil.
 
-Realizada con *HTML* y *CSS*.
+*¿El objetivo principal?* Práctica, práctica, ¡y más práctica! 💪
 
-Diseño del producto:
+Mirá el resultado final 👇
 
 <img src="https://github.com/lautaronahuelc/login/blob/master/resultado-final.jpg"/>
+
+[VER MAS PROYECTOS](https://github.com/lautaronahuelc?tab=repositories) 👈
