@@ -1,6 +1,6 @@
 # Login
 
-*¡Hey, Recruiter!* 👀 
+*¡Hey!* 👀 
 
 Este es un proyecto creado con HTML y CSS.
 
