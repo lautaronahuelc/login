@@ -11,5 +11,5 @@ Se creó la interfaz de lo que podría ser una app de música para móvil.
 Mirá el resultado final 👇
 
 <img src="https://github.com/lautaronahuelc/login/blob/master/resultado-final.jpg"/>
-
+***
 [VER MAS PROYECTOS](https://github.com/lautaronahuelc?tab=repositories) 👈
